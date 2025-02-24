@@ -5,6 +5,7 @@ import dao.IDao;
 public class MetierImpl implements IMetier {
     private IDao dao=null;
     public MetierImpl(){
+        
 
     }
 
