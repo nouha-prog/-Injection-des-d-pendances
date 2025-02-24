@@ -5,6 +5,7 @@ import metier.MetierImpl;
 
 
 public class presentationV1 {
+
     public static void main(String[] args){
         /*
         Injection des dependences par instanciation statique
@@ -15,4 +16,5 @@ public class presentationV1 {
         //metier.setDao(d); // Injection via Setter
         System.out.println("RES="+ metier.calcul());
     }
+    
 }
