@@ -1,10 +1,10 @@
-## 🏆 TP : Injection des Dépendances en Java  
+##  TP : Injection des Dépendances en Java  
 
 Ce projet est un **travail pratique** sur l'injection des dépendances en Java, basé sur trois méthodes différentes : **instanciation statique, instanciation dynamique et utilisation du framework Spring**.  
 
 ---
 
-### 📌 **1. Instructions Git pour commencer**  
+###  **1. Instructions Git pour commencer**  
 
 Avant de commencer à coder, assure-toi d'avoir **cloné le projet** et bien configuré Git sur ton environnement local.  
 
@@ -34,7 +34,7 @@ git push origin main
 
 ---
 
-### 🎯 **2. Objectifs du TP**  
+###  **2. Objectifs du TP**  
 
 L'objectif de ce TP est de comprendre et implémenter **l'injection des dépendances** en Java à travers différentes méthodes.
 
@@ -80,7 +80,7 @@ L'objectif de ce TP est de comprendre et implémenter **l'injection des dépenda
 
 ---
 
-### 🚀 **5. Comment exécuter le projet ?**  
+###  **5. Comment exécuter le projet ?**  
 
 Assure-toi d'avoir Java installé et exécute la classe `presentationV1` ou `presentationV2` selon la méthode d’injection des dépendances que tu veux tester.
 
@@ -88,9 +88,9 @@ Avec **Spring**, utilise la configuration XML ou les annotations pour lancer l�
 
 ---
 
-### 🌟 **Auteur**  
+###  **Auteur**  
 **Nouha-prog**  
-📌 [GitHub](https://github.com/nouha-prog)  
+ [GitHub](https://github.com/nouha-prog)  
 
 ---
 
