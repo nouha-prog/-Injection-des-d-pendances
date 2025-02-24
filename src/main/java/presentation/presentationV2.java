@@ -20,7 +20,7 @@ public class presentationV2 {
 
             String metierClassname = scanner.nextLine();
             Class cMetier= Class.forName(metierClassname);
-            IMetier metier=(IMetier) cMetier.getConstructor(IDao.class).newInstance(dao);
+            IMetier metier=(IMetier) cMetier.getConstructor().newInstance();
 
             Method setDao= cMetier.getDeclaredMethod("setDao", IDao.class);
             setDao.invoke(metier,dao);
