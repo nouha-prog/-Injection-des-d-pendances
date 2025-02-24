@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class presentationV2 {
     public static void main(String[] args)  {
         try {
-            
+
             Scanner scanner = new Scanner(new File("config.txt"));
             String daoClassename = scanner.nextLine();
             Class cDao= Class.forName(daoClassename);
